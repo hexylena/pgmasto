@@ -2,6 +2,7 @@
 
 A postgres database extension allowing you to toot from prod.
 
+[![asciicast](https://asciinema.org/a/492336.svg)](https://asciinema.org/a/492336)
 
 ## Why
 
